@@ -1,0 +1,2 @@
+# reactDay10C
+Translator
